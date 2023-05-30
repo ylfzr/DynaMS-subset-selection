@@ -1,7 +1,7 @@
 # DynaMS: Dyanmic Margin Selection for Efficient Deep Learning 
 
 This repository contains the implementation of our paper ["DynaMS: Dyanmic Margin Selection for Efficient Deep Learning "](https://openreview.net/pdf?id=7oPAgqxNb20) in ICLR 2023.
-We propose dynamic margin selection to accelerate training by dynamically pruning samples that are less imformative. (Coming soon, currently the implementation is under the compliance and security review process.)
+We propose dynamic margin selection to accelerate training by dynamically pruning samples that are less imformative. (Coming soon, currently the implementation is under the compliance review process of the company.)
 
 An overall illustration is presented below:
 
